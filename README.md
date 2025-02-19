@@ -2,6 +2,7 @@ Blog Application
 
 This is a simple Blog Application built using Java records, Lombok, and JUnit for testing. The project demonstrates object-oriented principles, validation, and serialization using Jackson.
 
+
 Features
 
 Person: Represents a user with validation.

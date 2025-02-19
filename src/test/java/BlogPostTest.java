@@ -2,6 +2,7 @@ import com.example.blogapp.models.BlogPost;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+
 public class BlogPostTest {
     @Test
     void testValidBlogPostCreation() {

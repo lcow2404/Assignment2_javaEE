@@ -29,3 +29,4 @@ public class BlogPost {
         this.postContent = postContent;
     }
 }
+

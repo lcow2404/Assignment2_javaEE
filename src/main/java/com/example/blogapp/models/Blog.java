@@ -15,3 +15,4 @@ public class Blog {
     private final List<BlogPost> posts;
     private final List<Person> contributors;
 }
+
